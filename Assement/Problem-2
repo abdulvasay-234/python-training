@@ -1,0 +1,17 @@
+# Movie Ticket Booking
+
+## Question:
+Write a Python program to calculate the cost of movie tickets.
+
+## Requirements:
+
+Store ticket categories (Silver, Gold, Platinum) and their prices in lists.
+Ask the user to select 2 ticket categories.
+Ask for the number of tickets for each category.
+Calculate the total amount.
+Add 12% GST.
+Display the final bill.
+
+## Constraints:
+
+Use variables, lists, arithmetic operators, input(), print(), and list.index() only.
